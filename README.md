@@ -1,1 +1,2 @@
 # GUI_CLOCK
+Creating a GUI clock involves displaying the current date and time and incorporating two main features. The first feature is a timer, also known as a stopwatch, which begins to count time when activated by a button press. Upon stopping the timer, it records the start and end times, along with the duration, into a selected file. If no file is chosen, it will generate a new file named "timer.txt" and save the data there. The second feature is a countdown function, where you set the hours, minutes, and seconds, and it counts down to zero.
